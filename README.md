@@ -56,10 +56,10 @@ The program performs the following operations:
 ## Program
 
 ### Developed By:
-**Name:* A PRAVEEN KISHORE
+**Name:*DEEPAK SUDHARSHAN.B
 
 ### Register No:
-212225220074
+212225230045
 
 ---
 ## STEP-1
